@@ -1,7 +1,13 @@
-# InfiniHuman: Infinite 3D Human Creation with Precise Control
-#### [Project Page](https://yuxuan-xue.com/infini-human) | [Paper](https://yuxuan-xue.com/infini-human/paper/infinihuman.pdf) | [Video](https://youtu.be/nqoomWVDR6w)
+<h2 align="center">
+  <a href="https://yuxuan-xue.com/infini-human/">InfiniHuman: Infinite 3D Human Creation with Precise Control</a>
+</h2>
 
+<h5 align="center">
+  
 SIGGRAPH Asia 2025, HongKong
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2510.06219-b31b1b.svg?logo=arXiv)]() 
+[![Home Page](https://img.shields.io/badge/Project-Website-C27185.svg)](https://yuxuan-xue.com/infini-human/) 
 
 [Yuxuan Xue](https://yuxuan-xue.com/)<sup>1 </sup>, [Xianghui Xie](https://virtualhumans.mpi-inf.mpg.de/people/Xie.html)<sup>1, 2</sup>, [Margaret Kostyrko](https://yuxuan-xue.com/)<sup>1</sup>, [Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html)<sup>1, 2</sup>
 
