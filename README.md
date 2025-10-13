@@ -1,5 +1,5 @@
 # InfiniHuman: Infinite 3D Human Creation with Precise Control
-#### [Project Page](https://yuxuan-xue.com/infini-human) | [Paper](https://yuxuan-xue.com/infini-human/paper/infinihuman.pdf)
+#### [Project Page](https://yuxuan-xue.com/infini-human) | [Paper](https://yuxuan-xue.com/infini-human/paper/infinihuman.pdf) | [Video](https://youtu.be/nqoomWVDR6w)
 
 SIGGRAPH Asia 2025, HongKong
 
@@ -9,7 +9,7 @@ SIGGRAPH Asia 2025, HongKong
 <sup>1</sup>Real Virtual Human Group @ University of Tübingen & Tübingen AI Center \
 <sup>2</sup>Max Planck Institute for Informatics, Saarland Informatics Campus
 
-![Teaser](https://github.com/YuxuanSnow/InfiniHuman/blob/main/assets/teaser.gif)
+![](https://github.com/YuxuanSnow/InfiniHuman/blob/main/assets/teaser.gif)
 
 ## News :triangular_flag_on_post:
 - [2025/10/14] InfiniHuman paper is available on [ArXiv](https://yuxuan-xue.com/infini-human).
@@ -23,7 +23,7 @@ SIGGRAPH Asia 2025, HongKong
   - **Quality indistinguishable from real scans**: Users cannot tell the difference between our synthetic data and real scan renderings!
   - **InfiniHumanGen**: Diffusion-based generative model trained on InfiniHumanData => **Fast, realistic, and precisely controllable 3D human generation from text, clothing, body shape, and pose**
 
-![InfiniHuman Pipeline](https://github.com/YuxuanSnow/InfiniHuman/blob/main/assets/pipeline_infiniHumanGen_3.png)
+![](https://github.com/YuxuanSnow/InfiniHuman/blob/main/assets/pipeline_infiniHumanGen_3.png)
 
 
 ## Citation :writing_hand:
