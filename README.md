@@ -6,7 +6,7 @@
   
 SIGGRAPH Asia 2025, HongKong
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2510.06219-b31b1b.svg?logo=arXiv)]() 
+[![arXiv](https://img.shields.io/badge/Arxiv-2510.11650-b31b1b.svg?logo=arXiv)](http://arxiv.org/abs/2510.11650) 
 [![Home Page](https://img.shields.io/badge/Project-Website-C27185.svg)](https://yuxuan-xue.com/infini-human/) 
 
 [Yuxuan Xue](https://yuxuan-xue.com/)<sup>1 </sup>, [Xianghui Xie](https://virtualhumans.mpi-inf.mpg.de/people/Xie.html)<sup>1, 2</sup>, [Margaret Kostyrko](https://yuxuan-xue.com/)<sup>1</sup>, [Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html)<sup>1, 2</sup>
